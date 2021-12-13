@@ -23,4 +23,5 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=skeanster&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=F0DB4F&currStreakNum=F0DB4F"
   />
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=skeanster.visitor-badge)
 </div>
