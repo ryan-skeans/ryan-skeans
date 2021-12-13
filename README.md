@@ -27,4 +27,5 @@
   <img
     src="https://visitor-badge.glitch.me/badge?page_id=skeanster.visitor-badge"
   />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=skeanster" alt="visitor badge"/>
 </div>
