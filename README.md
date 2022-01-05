@@ -20,5 +20,7 @@
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br />
   <br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skeanster)](https://git.io/streak-stats)
+  <img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=skeanster&&theme=react&&hide_border=true"
+  />
 </div>
