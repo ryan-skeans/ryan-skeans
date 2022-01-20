@@ -19,8 +19,4 @@
     width="60px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br />
-  <br />
-  <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=skeanster&&theme=react&&hide_border=true"
-  />
 </div>
