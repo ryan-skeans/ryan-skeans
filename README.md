@@ -1,5 +1,5 @@
 ### Hi there, I'm Ryan 👋 
-<div align="center">
+<div align="left">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
     width="60px"
